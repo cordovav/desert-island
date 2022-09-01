@@ -1,0 +1,25 @@
+body{
+    background-color: lightyellow;
+    font-family: sans-serif;
+    padding-left:20px;
+    margin-top:17px;
+    text-align: center;
+
+}
+h1, h2{
+    text-align: center;
+}
+h2{
+    color: green;
+}
+img{
+    display: block;
+    width:50%;
+    margin:auto;
+}
+h3{
+    color: blue;
+}
+li{
+    list-style: none;
+}
